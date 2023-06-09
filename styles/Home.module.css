@@ -6,6 +6,13 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.navbar {
+  background-color: transparent;
+}
+
+.navbar.colorChange {
+  background-color: #000;
+}
 
 .description {
   display: inherit;
