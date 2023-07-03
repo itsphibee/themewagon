@@ -76,7 +76,7 @@ export class Contact extends Component {
               defaultValue="Your Message"
               sx={{ mb: 5 }}
             />
-            <Button variant="contained" size="large" backgroundColor="#47B475">
+            <Button variant="contained"  sx={{ color:"#000000", fullWidth: true, backgroundColor:"#47B475"}}>
               Send Me
             </Button>
           </Grid>
